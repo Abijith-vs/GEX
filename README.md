@@ -26,7 +26,7 @@ A lightweight AI model is integrated to predict whether the input gene sequence 
 - **Frontend**: HTML, CSS,JS
 - **Backend**: Python (Fastapi)
 - **Libraries**: GEOparse, Pandas, SciPy
-- **Visualization**: Plotly, Chart.js
+- **Visualization**: Plotly, Chart.js,Matplotlib
 - **Data Source**: NCBI GEO
 
 ---
